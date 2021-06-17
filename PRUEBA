@@ -1,8 +1,5 @@
 git branch
 git logs
-git status
-git commit
-git add
 git blame
 git stash
 git checkout -b RAMA
