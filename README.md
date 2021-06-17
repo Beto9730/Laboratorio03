@@ -1,2 +1,0 @@
-# Laboratorio03
-GIT
